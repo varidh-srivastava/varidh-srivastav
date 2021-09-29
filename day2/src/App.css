@@ -1,0 +1,32 @@
+.product-class{
+    margin: 50px 30px 10px 30px;
+    
+  }
+  .heading{
+      margin-top: 50px;
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .productName{
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-weight: 500;
+  }
+
+  .productCapital{
+      font-family: Arial, Helvetica, sans-serif;
+      margin-left: 20px;
+
+  }
+  .body{
+     background-color: antiquewhite;
+  }
+  .card{
+      background-color: white;
+      padding: 10px 10px 10px 10px;
+      border-radius: 20px;
+  }
+  .productClass{
+        background-color: beige;
+        border-radius: 20px;
+        padding: 10px;
+  }
