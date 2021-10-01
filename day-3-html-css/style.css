@@ -1,0 +1,17 @@
+.main{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.containerone{
+    margin-bottom: 30px;
+    border: 1px solid black;
+    box-shadow: 10px 10px 10px  red;
+    border-radius: 10px 0px 10px 10px ;
+}
+.containerTwo{
+    border-radius: 50px;
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    contain: content;
+}
