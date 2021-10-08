@@ -1,0 +1,54 @@
+.img{
+    width: 150%;
+}
+body{
+    background-color: bisque;
+}
+.container{
+    margin-top: 30px;
+    width: 100%;
+    /* margin-bottom: -100%; */
+    
+}
+.Hello{
+    font-weight: 100;
+    font-size: 40px;
+}
+.Work{
+    margin-top: 100px;
+    font-style: italic;
+    
+}
+.Name{
+    font-size: 70px;
+    /* position: absolute; */
+}
+.btn{
+    margin: 30px 0px 30px 0px;
+}
+.color{
+    color: rgb(92, 88, 88);
+}
+
+.collegeInmformation{
+    margin-top: 50px;
+}
+.college{
+    font-weight:400;
+}
+.department{
+    font-weight: 500;
+}
+.year{
+    font-weight: 300;
+}
+.card-group{
+    size: 10%;
+}
+.progress{
+    margin-top: 10px;
+    
+}
+.label{
+    margin-top: 50px;
+}
