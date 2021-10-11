@@ -1,0 +1,19 @@
+DAY 1;
+ASSIGNENT 1;
+Q1)time complexity?
+             of(
+ 		a = 1
+		b = 1
+		while(b <= n)
+		{
+    		a += 1;
+    		b += a;
+   		printf("Hi LetsUpgraders");
+		}
+	)
+Ans)
+      # Let time taken for for reading the variable (a) and (b) respectively takes time k1 and and the while loop take k2 time and as we know that loop will run for n times thus entire loop  will take time (k2 x n).
+  total time is= k1+ k2n
+                       =k2n  :(k1<<<k2n)
+                       = o(n) :(k2=constant)
+thus total time takes by program is o(n).
